@@ -3,6 +3,10 @@
 A few scripts used for pulling stats out of Github and Tock. Written in
 Python3
 
+## See also
+
+* [GitHub organization outside contribution stats](https://gist.github.com/afeld/9488c0a7dc7762311c9d)
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
